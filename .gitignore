@@ -1,0 +1,3 @@
+watchmate/venv
+watchmate/*/__pycache__/*
+watchmate/*/migrations/*
