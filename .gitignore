@@ -1,3 +1,5 @@
-watchmate/venv
-watchmate/*/__pycache__/*
-watchmate/*/migrations/*
+*/venv
+*/node_modules
+*/*/node_modules
+*/*/migrations
+*/*/__pycache__
